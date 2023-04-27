@@ -13,6 +13,7 @@ In Matching:
 2. Run "run_InsightModel.py" to train the model
 3. Folder "data_before_processing" contains the raw data I used to generate json files
 4. The "data" folder contains the json files I used in training
+5. matching need a English embedding txt. The one i'm using is too large to push to GIthub, I'm still finding way to push it
     
 Reference packages:
 1. https://github.com/OmkarPathak/pyresparser
